@@ -15,5 +15,5 @@ We are planning to present ground truths on the system prompt and instruct the m
 ```
 pip install --upgrade openai matplotlib
 export OPENAI_API_KEY="sk-..."
-python run_contradiction_alignment_experiment.py --n 120 --temperature 0.7
+python run_contradiction_alignment_experiment.py --n 50 --temperature 0.7
 ```
