@@ -85,8 +85,8 @@ The escalation requests did not resulted on significative changes on behavior.
 Some variables may be affecting the results we got. For example, commercial models available on the API may already have some training to be aligned with the truth. As follow up steps, we suggest:
 
 - experiment with more models and models of different sizes
-- experiment with raw models or jailbroke models
-- vary the nature of the moral dilema and the framings used
+- experiment with raw models or jailbroken models
+- vary the nature of the moral dilemma and the framings used
 
 ---
 
