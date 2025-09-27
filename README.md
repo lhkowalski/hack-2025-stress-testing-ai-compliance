@@ -6,6 +6,10 @@ Having changing levels of compliance on alignment rules and system prompts affec
 
 Knowing what affects it and what causes the model to break the rules is an useful insight when creating better alignment strategies.
 
+![Stress-Testing AI Compliance vs. Deception](/images/ai-system-prompt-compliance.webp)
+
+---
+
 ## Hypothesis
 
 We had two different hypothesis to test:
