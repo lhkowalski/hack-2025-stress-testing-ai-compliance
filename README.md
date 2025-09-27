@@ -70,6 +70,10 @@ We found out that it is false. It is very hard to make the model lie when the sy
 
 ![It is 62 times more easy to make the model say the truth when the system prompt requests it to lie](/images/ease_truth_vs_lie.png)
 
+The distribution deception, truthfullness and other labels by framing is:
+
+![The distribution deception, truthfullness and other labels by framing](/output/charts/response-rates-by-framing.png)
+
 ---
 
 ## Next steps
