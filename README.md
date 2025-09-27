@@ -66,7 +66,7 @@ For the second hypothesis:
 
 - the model will follow the system rules on a constant rate, not prefering being truthful or deceptive
 
-We found out that it is false. It is very hard to make the model lie when the system prompt requests it to speak the truth. It is X times more easy to make the model say the truth when the system prompt requests it to lie.
+We found out that it is false. It is very hard to make the model lie when the system prompt requests it to speak the truth. It is 62 times more easy to make the model say the truth when the system prompt requests it to lie.
 
 ## Next steps
 
