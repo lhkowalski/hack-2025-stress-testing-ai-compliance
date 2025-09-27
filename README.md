@@ -15,7 +15,7 @@ Knowing what affects it and what causes the model to break the rules is an usefu
 We had two different hypothesis to test:
 
 - different framings will impact on the deception rate of the model
-- the model will follow the system rules on a constant rate, not prefering being truthful or deceptive
+- the model will follow the system rules on a constant rate, not preferring being truthful or deceptive
 
 ## Experiment we ran
 
