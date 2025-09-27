@@ -68,6 +68,10 @@ For the second hypothesis:
 
 We found out that it is false. It is very hard to make the model lie when the system prompt requests it to speak the truth. It is 62 times more easy to make the model say the truth when the system prompt requests it to lie.
 
+![It is 62 times more easy to make the model say the truth when the system prompt requests it to lie](/images/ease_truth_vs_lie.png)
+
+---
+
 ## Next steps
 
 Some variables may be affecting the results we got. For example, commercial models available on the API may already have some training to be aligned with the truth. As follow up steps, we suggest:
