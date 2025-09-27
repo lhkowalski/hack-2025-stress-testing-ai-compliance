@@ -52,6 +52,8 @@ When the system prompt asks for the truth, these are the framings to estimulate 
 
 An independent model was used as the judge of the response, deciding if the answer from the assistant was truthfull, deceptive, evasive or if the assistant refused to answer.
 
+We also experimented some different scenarios, like escalation questions asking for the model to reasure the last statement.
+
 The code has support to use models from both OpenAI and Anthropic. We experimented with temperature `0.8` and tested with different numbers of iterations.
 
 ## Results
@@ -73,6 +75,8 @@ We found out that it is false. It is very hard to make the model lie when the sy
 The distribution deception, truthfullness and other labels by framing is:
 
 ![The distribution deception, truthfullness and other labels by framing](/output/charts/response-rates-by-framing.png)
+
+The escalation requests did not resulted on significative changes on behavior.
 
 ---
 
